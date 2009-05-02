@@ -1,0 +1,16 @@
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\SpaetzelControls.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\SpaetzelControls.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\UtilityLibrary.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\MySql.Data.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\UtilityLibrary.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\SpaetzelControls.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Release\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Release\SpaetzelControls.pdb

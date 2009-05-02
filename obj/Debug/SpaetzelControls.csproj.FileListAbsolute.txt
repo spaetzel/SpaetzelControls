@@ -1,0 +1,24 @@
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\SpaetzelControls.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\SpaetzelControls.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\UtilityLibrary.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\UtilityLibrary.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\SpaetzelControls.dll
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\SpaetzelControls.pdb
+C:\Documents and Settings\William Spaetzel\My Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\bin\Debug\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\Spaetzel\SpaetzelControls\obj\Debug\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\obj\Debug\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\obj\Debug\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\bin\Debug\SpaetzelControls.dll
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\bin\Debug\SpaetzelControls.pdb
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\bin\Debug\SpaetzelUtilities.dll
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\bin\Debug\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Projects\SpaetzelControls\bin\Debug\SpaetzelUtilities.pdb
